@@ -577,7 +577,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=https://raw.fastgit.org/cyd0116/cyd/main/t.txt"
+                        "proxy://do=live&type=txt&ext=https://gitea.com/99/j/raw/branch/main/pglblb_zb_619.txt"
                     ]
                 }
             ]
