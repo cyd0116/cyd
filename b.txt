@@ -1,10 +1,10 @@
 {"zhuyejiekou": [
 {"name": "9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
-{"name":"六神秒播","url":"http://mkk.gotka.top/api.php/v1.vod"},
 {"name": "会员影院","url": "http://360yy.cn/api.php/app/"},
+{"name":"六神秒播","url":"http://mkk.gotka.top/api.php/v1.vod"},
+{"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"开尔影院","url":"https://appx.uy07.com/api.php/v1.vod"},
 {"name":"天空影视","url":"https://www.tkys.tv/xgapp.php/v2/"},
-{"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"段友影视","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"}],
 "zhujiexi": "https://jx.hfyrw.com/mao.go?url=#https://jsap.attakids.com/?url=#https://app.iminna.com/jx/?url=#https://humaosp.com/json.php?url=#https://jx.mczdyw.com/xg.php?url=#http://api.vip123kan.vip/?url=#https://aa.xkys.tv/json.php?url=#https://json.5lp.net/json.php?url=#https://json.hfyrw.com/mao.go?url=#https://jhpc.manduhu.com/j1217.php?url=#https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=#http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=",
