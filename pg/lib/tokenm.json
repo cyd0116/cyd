@@ -25,7 +25,7 @@
 "thunder_flags":"4k|4kz|auto",
 "aliproxy":"",
 "aliproxy_url":"",
-"proxy":"http://127.0.0.1:10172",
+"proxy":"http://127.0.0.1:1072",
 "danmu":true,
 "quark_danmu":true,
 "quark_cookie":"",
