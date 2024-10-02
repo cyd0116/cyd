@@ -24,15 +24,9 @@
 				"ratio": 1.5
 			}
 		},
-		{
-			"key": "NanGua",
-			"name": "南瓜",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "null$$$1"
-		},
+{"key":"drpy_js_南瓜影视","name":"南瓜[js]","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/南瓜影视.js"},
+{"key":"drpy_js_Auete","name":"Auete[js]","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/Auete.js"},
+{"key":"drpy_js_农民","name":"影视|农民影视[js]","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/农民影视.js"},	
 		{
 			"key": "快看",
 			"name": "快看",
@@ -50,7 +44,7 @@
 			"api": "csp_TTian",
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
-{"key":"农民","name":"💢农民|XBPQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}}, 
+//{"key":"农民","name":"💢农民|XBPQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}}, 
 
 {"key":"XBPQ_文才","name":"💢文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar", "ext":{ "滤词": "", "直接播放": "0", "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", "首页": "90", "起始页": "1", "分类url":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc", "分类": "电影&电视剧&动漫&综艺", "分类值": "1&14&75&69", "二次截取":"list\":\\[&&\\]", "数组":"{&&}[不包含:伦理剧]", "图片":"vod_pic\":\"&&\"", "标题": "vod_name\":\"&&\"", "副标题": "vod_remarks\":\"&&\"+_+vod_pubdate\":\"&&\"", "链接": "https://m.cfkj86.com/detail/+vod_id\":&&,", "线路二次截取":"", "线路数组":"span class=\"label\">&&/span>", "线路标题":"文才", "播放数组":"episodeList\":\\[&&\\][替换:nid\":>>nid\":/1/]", "播放列表":"{&&}", "播放标题":"name\":\"&&\"", "播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/", "播放链接前缀":"https://m.cfkj86.com/vod/play/+data\":{\"vodId\":&&,", "播放链接":"nid\":&&,", "倒序":"0", "跳转解析":"", "跳转播放链接":"", "影片类型":"vod_class\":\"&&\"", "影片年代":"vod_year\":\"&&\"", "影片地区":"vod_area\":\"&&\"", "导演": "vod_director\":\"&&\"", "主演": "vod_actor\":\"&&\"", "简介":"vod_content\":\"&&\"", "搜索url":"/api.php/provide/vod/?ac=detail&wd={wd}&pg={pg}", "搜索模式":"1", "搜索二次截取":"list\":\\[&&\\]", "搜索数组":"{&&}[不包含:伦理]", "搜索图片":"vod_pic\":\"&&\"", "搜索标题": "vod_name\":\"&&\"", "搜索副标题": "vod_remarks\":\"&&\"", "搜索链接": "https://m.cfkj86.com/detail/+vod_id\":&&,", "筛选": "1", "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41||国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68||国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74" } }, 
 
@@ -59,7 +53,8 @@
 {"key":"奇优","name":"️💢奇优|XBPQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/cyd0116/vod/raw/master/mao/JS/js/奇优.json"}, 
 
 { "key":"XBPQ_电影先生", "name": "💢电影先生|XBPQ", "jar": "./lib/XBPQ.jar", "type": 3, "api": "csp_XBPQ", "ext": { "分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html", "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>", "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}", "搜索数组": "<div class=\"module-item-pic\">&&</div>", "图片": "src=\"&&\"", "搜索标题": "title=\"&&\"", "搜索副标题": ">&&</a>", "线路数组": "data-dropdown-value=&&</div>", "线路标题": "<span>&&</small>[替换:<span></small>共]+集", "播放数组": "<div class=\"scroll-content\">&&</div>", "播放标题": "<span>&&</span>", "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi" } }, 
-		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$noproxy"},
+{"key":"drpy_js_爱看机器人","name":"爱看机器人[js]","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看机器人.js"},		
+		//{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$noproxy"},
 		{
 			"key": "量子",
 			"name": "量子",
@@ -255,6 +250,10 @@
 				"ratio": 1.1
 			}
 		},
+{"key":"88js","name":"⚽88看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":0,"changeable":0,"style":{"type":"list"},
+"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js"},
+{"key":"Jrsjs","name":"⚽JrKan看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","searchable":0,"changeable":0,"style":{"type":"list"},
+"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js"},
 		{"key":"SambaShare","name":"Samba分享","type":3,"api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
 		{
 			"key": "酷狗",
