@@ -68,8 +68,6 @@
 //{"key":"土豆","name":"🥔土豆|阿U网盘","type": 3,"api": "csp_Wobg","searchable": 1,"quickSearch":1, "changeable":1,"filterable": 0,"changeable": 1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$noproxy$$$1$$$./lib/wogg.json$$$TUDOU"}, 
 //{"key":"Hdhive","name":"🏚️影巢|阿115网盘","type":3,"api":"csp_Hdhive","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdhive.online/$$$noproxy$$$1"},
 
-{"key":"TGYunPanLocal","name":"📀TG搜索|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$http://tg.seczh.com$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,yunpanpan,zaihuayun,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$noproxy$$$1"},
-
 {"key":"秒搜","name":"📀秒搜|阿U搜索","type":3,"api":"csp_MiaoSou","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1,"timeout":60, "ext":"./lib/tokenm.json", "style": { "type": "list", "ratio": 1.1 } }, 
 //{"key":"易搜","name":"📀易搜|阿里搜索","type":3,"api":"csp_YiSo","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1,"timeout":60, "ext":"./lib/tokenm.json$$$satoken=e0b5a908-3f32-40ab-947a-c9b74b191abc", "style": { "type": "list", "ratio": 1.1 } }, 
 {"key":"PanSearch","name":"📀盘搜索|阿夸搜索","type":3,"api":"csp_PanSearch","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$noproxy"}, 
@@ -80,6 +78,7 @@
 
 //{"key":"Panta","name":"📀盘Ta|YD搜索","type":3,"api":"csp_Panta","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1", "style": { "type": "list", "ratio": 1.1 } }, 
 //{"key":"校长影视","name":"👩校长影视|阿夸迅百","type":3,"api":"csp_XiaoZhang","searchable": 1, "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$noproxy$$$1"},
+//{"key":"Ppxzy","name":"📀皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"}, 
 //{"key":"QuarkPanso","name":"📀夸克盘搜|夸克搜索","type":3,"api":"csp_QuarkPanso","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json", "style": { "type": "list", "ratio": 1.1 } }, 
 //{"key":"Funletu","name":"📀趣盘搜|夸克搜索","type":3,"api":"csp_Funletu","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json", "style": { "type": "list", "ratio": 1.1 } }, 
 
@@ -90,8 +89,10 @@
 //{"key":"Qianfan","name":"📀千帆|网盘搜索","type":3,"api":"csp_Qianfan","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"}, 
 //{"key":"YunSo","name":"📀小云搜索|网盘搜索","type":3,"api":"csp_YunSo","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1", "style": { "type": "list", "ratio": 1.1 } }, 
 //{"key":"YunPanOne","name":"📀云盘One|网盘搜索","type":3,"api":"csp_YunPanOne","searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},		
-//{"key":"Ppxzy","name":"📀皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "searchable": 1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"}, 
 
+{"key":"TGYunPanLocal","name":"🅿TG搜索|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$http://tg.seczh.com$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,yunpanpan,zaihuayun,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$noproxy$$$1"},
+{ "key":"Youtube", "name":"🅿Youtube", "type":3, "api": "csp_Youtube", "searchable": 1, "quickSearch": 0, "changeable": 0, "timeout": 120, "ext":{ "token":"./lib/tokenm.json", "json":"./lib/youtube.json", "type":"纪录片#电影#剧集#综艺#音乐#体育#动物#风光#直播#新闻#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary", "keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐", "codecs":"", "proxy":"proxy", "danmu":true }, "style": { "type": "rect", "ratio": 1.77 } }, 
+		
 {"key":"PushShare","name":"🅿我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1", "style": { "type": "list", "ratio": 1.1 } }, 
 {"key":"AliShare","name":"🅿阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1", "style": { "type": "list", "ratio": 1.1 } }, 
 {"key":"115Share","name":"🅿115云盘分享","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":120,"ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
